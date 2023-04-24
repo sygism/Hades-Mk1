@@ -13,6 +13,12 @@ The unit has 32-bit architecture.
 The board is capable of driving a 3P motor, hence it requires 6 transistors, setup as switches. By driving different transistor combinations
 different phases of the motor can be powered. The transistors are driven by a MOSFET driver IC.
 
+<img src="simplified_diagram.png" width="250" height="100" align="center"/>
+
+A simplified diagram of how this ESC board works.
+
+Drawing credits to [HowToMechatronics](https://howtomechatronics.com/wp-content/uploads/2019/02/How-does-an-ESC-Work-Electronic-Speed-Controller.png).
+
 ## Authors
 
   - **Markus Erik Sügis** - 
